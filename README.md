@@ -7,7 +7,7 @@ This repository contains a collection of practical exercises and projects design
 
 ## Table of Contents
 
-- [Features](#Installation)
+- [Features](#Features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
 - [Usage](#usage)
